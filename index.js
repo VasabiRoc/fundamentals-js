@@ -21,8 +21,4 @@ export const identifySign = (n) => {
 
 export const reverseWords = (text) => text.split(' ').reverse().join(' ');
 
-export const wordsCount = (text) => {
-    let result = '';
-    
-  return
-};
+export const wordsCount = (text) => words.length(text.split(" "));
